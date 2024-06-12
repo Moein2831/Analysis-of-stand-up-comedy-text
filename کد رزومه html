@@ -1,0 +1,58 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <!-- Header -->
+    <header style="background-color: #333; color: white; padding: 10px 20px; text-align: center;">
+        <h1>My Portfolio</h1>
+        <p>Welcome to my professional space</p>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" style="padding: 20px;">
+        <h2>About Me</h2>
+        <p>I am a passionate developer with a knack for building web applications that solve real-world problems.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" style="background-color: #f4f4f4; padding: 20px;">
+        <h2>Projects</h2>
+        <div>
+            <h3>Project 1</h3>
+            <p>Description of the first project.</p>
+        </div>
+        <div>
+            <h3>Project 2</h3>
+            <p>Description of the second project.</p>
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section id="achievements" style="padding: 20px;">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Award 1</li>
+            <li>Award 2</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" style="background-color: #333; color: white; padding: 20px; text-align: center;">
+        <h2>Contact</h2>
+        <p>Email: example@example.com</p>
+        <p>Phone: 123-456-7890</p>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background-color: #222; color: white; padding: 10px 20px; text-align: center;">
+        <p>© 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>
+```
